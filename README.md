@@ -1,4 +1,5 @@
 -  <!---comentarios--->
+-  ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCp9MvEFnfpf4hV4GpVUD4W5cv5VuTRCf9g&s)
 -  # sobre mim **AMANDA**
 -  ## *manda*
 - 👋 **ola,eu sou @gabiferreeira**
