@@ -1,5 +1,6 @@
   <!---comentarios--->
- ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCp9MvEFnfpf4hV4GpVUD4W5cv5VuTRCf9g&s)
+ ![](https://i.pinimg.com/originals/41/ef/c4/41efc45244497210514d36deef702a5d.gif)
+ ![](https://media.tenor.com/324eE1K3uosAAAAM/turn-around-joe-goldberg.gif)
  # sobre mim **AMANDA**
 -  ## *manda*
 - 👋 **ola,eu sou @gabiferreeira**
@@ -12,8 +13,7 @@
 - ⚡ Fun fact: ...
 
 <!---
-gabiferreeira/gabiferreeira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 ![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white)
